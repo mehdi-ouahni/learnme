@@ -1,6 +1,5 @@
 .banner{
-  background-image: url(../../images-learnme/background.png)
-  color: white;
+  background-image: url(learnme/images-learnme/background.png)
   padding: 150px 200px 30px;
   background-size: cover;
   background-position: center;
@@ -8,12 +7,12 @@
 
 .banner h1 {
   font-size: 48px;
-  color: grey;
+  color: black;
 }
 
 .banner h2 {
   font-size; 38px;
-  color: grey;
+  color: black;
   font-weight; lighter;
 }
   
