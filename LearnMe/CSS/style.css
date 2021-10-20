@@ -3,6 +3,7 @@
 @import url("components/avatar.css");
 @import url("components/button.css");
 @import url("components/banner.css");
+@import url("components/box.css");
 body {
 	font family : 'Open Sans Condensed', sans-serif;
 	font size: 18px; 
