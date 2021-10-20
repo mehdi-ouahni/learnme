@@ -1,0 +1,51 @@
+.btn-green {
+	background-color: #59ACB2;
+	padding: 10px 15px;
+	border-radius: 20px;
+	color: white;
+	font-weight: bold;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+}
+
+.btn-blue {
+    background-color: #3B5998;
+    padding: 10px 15px;
+	border-radius: 20px;
+    color: white;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+
+.btn-white{
+    background-color: white;
+    padding: 10px 15px;
+	border-radius: 20px;
+    color: black;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+    border-style: solid;
+    border-color: black;
+}
+
+.btn-white-without-border{
+    background-color: white;
+    padding: 10px 15px;
+	border-radius: 20px;
+    color: black;
+    font-weight:  normal;
+    font-family: 'Roboto', sans-serif;
+    text-decoration: none;
+}
+
+.btn-grey {
+	background-color: #F8F8F8;
+	padding: 10px 15px;
+	border-radius: 20px;
+	color: black;
+	font-weight:  normal;
+	font-family: 'Roboto', sans-serif;
+	text-decoration: none;
+}
