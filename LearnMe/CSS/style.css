@@ -2,11 +2,13 @@
 @import url("components/button.css");
 @import url("components/banner.css");
 @import url("components/box.css");
+
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
 body {
-	font family : 'Open Sans Condensed', sans-serif;
 	font size: 18px; 
 }
-h1,h2,h3 {
+h1,h2,h3,a,p {
 	font-family: 'Roboto', serif;
 	font-weight: bold;
 }
