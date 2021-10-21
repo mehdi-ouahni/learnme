@@ -50,12 +50,7 @@
 	text-decoration: none;
 }
 
-.help {
-	background-color: #F8F8F8;
-	padding: 10px 15px;
-	border-radius: 10px;
+.help {	
+	border-radius: 50px;
 	color: black;
-	font-weight:  normal;
-	font-family: 'Roboto', sans-serif;
-	text-decoration: none;
 }
