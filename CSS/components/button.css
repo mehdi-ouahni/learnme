@@ -11,7 +11,7 @@
 .btn-blue {
     background-color: #3B5998;
     padding: 10px 15px;
-	border-radius: 20px;
+    border-radius: 20px;
     color: white;
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
@@ -21,7 +21,7 @@
 .btn-white{
     background-color: white;
     padding: 10px 15px;
-	border-radius: 20px;
+    border-radius: 20px;
     color: black;
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
@@ -33,7 +33,7 @@
 .btn-white-without-border{
     background-color: white;
     padding: 10px 15px;
-	border-radius: 20px;
+    border-radius: 20px;
     color: black;
     font-weight:  normal;
     font-family: 'Roboto', sans-serif;
@@ -68,10 +68,7 @@
     align-items: center;
     cursor: pointer;
     transition: 0.8s;
-      box-shadow:  4px 4px 6px 0 rgba(255,255,255,.3),
-              -4px -4px 6px 0 rgba(116, 125, 136, .2), 
-    inset -4px -4px 6px 0 rgba(255,255,255,.2),
-    inset 4px 4px 6px 0 rgba(0, 0, 0, .2);
+    box-shadow:  4px 4px 6px 0 rgba(255,255,255,.3), -4px -4px 6px 0 rgba(116, 125, 136, .2), inset -4px -4px 6px 0 rgba(255,255,255,.2), inset 4px 4px 6px 0 rgba(0, 0, 0, .2);
 }
 
 .search-container:hover > .search-input{
