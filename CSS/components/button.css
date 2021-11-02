@@ -1,11 +1,21 @@
 .btn-green {
 	background-color: #59ACB2;
 	padding: 10px 15px;
+	margin: 10px;
 	border-radius: 20px;
 	color: white;
 	font-weight: bold;
 	font-family: 'Roboto', sans-serif;
 	text-decoration: none;
+}
+
+#login-navbar {
+	margin-top: 37px;
+}
+
+#search-navbar {
+	margin-top: 15px;
+	margin-bottom: 10px;
 }
 
 .btn-blue {
