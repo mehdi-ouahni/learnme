@@ -72,12 +72,12 @@ width: 500px;
     margin-bottom: 15px;
 }
 
-.prof-widget H1 {
+.prof-widget h1 {
     color: #59ACB2;
     margin-bottom: 40px;
 }
 
-.basic_info{
+    .basic_info{
     font-weight: normal;
     line-height: 25px;
     -webkit-text-size-adjust: none;
@@ -106,8 +106,10 @@ width: 500px;
     background-color: #fff;
     color: #000;
     border-bottom: 0;
-    margin: 40px auto;
+    margin: 20px auto;
+    text-align: left;
 }
+
 
 .ourteam{
     font-weight: normal;
@@ -122,8 +124,19 @@ width: 500px;
     background-color: #fff;
     color: #000;
     border-bottom: 0;
-    margin: 40px auto;
+    margin: 20px auto;
     text-align: right;
+}
+
+.aboutus_info h3 {
+    display: block;
+    font-size: 1.17em;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    white-space: pre-line;
 }
 
 .presentation {
@@ -137,4 +150,8 @@ width: 500px;
 .middle-card {
   display: inline-block;
   text-align: center
+}
+
+.img-circle {
+border-radius: 50%;
 }
