@@ -29,23 +29,29 @@
 
 #profwidgetleft {
 float: left;
-height: 500px;
-margin-left: 350px;
+text-align: center;
 }
 
 #profwidgetright {
 float: right;
 width: 500px;
-margin-right:350px;;
 }
 
 .reviewcomment{
     padding: 10px 30px;
-
+    text-align: right;
 }
 
+.reviewname{
+      margin-top: 50px;
+      padding-top: 0px;
+      font-weight: bold;
+      text-align: left;
+      font-size: 20px;
+    }
+
 .prof-widget{
-	 font-weight: normal;
+   font-weight: normal;
     -webkit-text-size-adjust: none;
     font-family: 'Nunito Sans',arial;
     -webkit-font-smoothing: antialiased;
@@ -64,6 +70,11 @@ margin-right:350px;;
     width: 300px;
     text-align: center;
     margin-bottom: 15px;
+}
+
+.prof-widget H1 {
+    color: #59ACB2;
+    margin-bottom: 40px;
 }
 
 .basic_info{
@@ -113,4 +124,17 @@ margin-right:350px;;
     border-bottom: 0;
     margin: 40px auto;
     text-align: right;
+}
+
+.presentation {
+    padding-top: 40px;
+    padding-left: 20;
+    padding-right: 20;
+    line-height: 25px;
+    white-space: pre-line;
+} 
+
+.middle-card {
+  display: inline-block;
+  text-align: center
 }
