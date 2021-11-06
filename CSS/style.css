@@ -6,11 +6,25 @@
 @import url("components/navbar.css");
 @import url("components/footer.css");
 
-h1,h2,h3,a,p{
-	font-family: 'Roboto', sans-serif ;
+body {
+	font family : 'Open Sans Condensed', sans-serif;
+	font size: 18px; 
+}
+h1,h2,h3 {
+	font-family: 'Roboto', serif;
+	font-weight: bold;
 }
 
+a {
+	text-decoration: none;
+}
 
+.h1-form {
+  font-family: 'Roboto', serif;
+  font-weight: bold;
+  text-align: center;
+  font-size: 30px;
+}
 
 
 @media (max-width: 960px) {
