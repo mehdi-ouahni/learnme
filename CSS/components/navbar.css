@@ -1,4 +1,4 @@
-.ulnav{
+ul {
     list-style-type: none;
     background-color: white;
     position: fixed;
@@ -10,19 +10,14 @@
     flex-wrap: wrap;
     justify-content: space-between;
     flex-direction: row;
-    padding: 0px 0PX 0px 0px;
     float: right;
-    margin-top: 1px;
-    padding-bottom: 0px;
 }
 
 li {
     display: inline;
-    margin: 10px;
 }
 
-.anav{
+a {
     display: block;
-    padding: 8px;
     background-color: white;
 }
