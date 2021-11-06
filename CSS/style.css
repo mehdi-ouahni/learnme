@@ -26,6 +26,9 @@ a {
   font-size: 30px;
 }
 
+.img-circle {
+border-radius: 50%;
+}
 
 @media (max-width: 960px) {
   .container {
