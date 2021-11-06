@@ -31,6 +31,13 @@ a {
 border-radius: 50%;
 }
 
+.team {
+  border: 2px solid #555;
+  border-radius: 1%;
+  margin-top: 150px;
+  margin-left: 11px;
+}
+
 @media (max-width: 960px) {
   .container {
     width: 700px;
