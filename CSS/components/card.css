@@ -26,3 +26,69 @@
   flex-grow: 1;
   margin: 10px;
 }
+
+#profwidgetleft {
+float: left;
+height: 500px;
+margin-left: 350px;
+}
+
+#profwidgetright {
+float: right;
+width: 500px;
+margin-right:350px;;
+}
+
+.reviewcomment{
+    padding: 10px 30px;
+
+}
+
+.basic_info{
+    font-weight: normal;
+    line-height: 25px;
+    -webkit-text-size-adjust: none;
+    font-size: 16px;
+    font-family: 'Nunito Sans',arial;
+    -webkit-font-smoothing: antialiased;
+    visibility: visible;
+    width: 640px;
+    float: right;
+    padding: 20px 20px 0;
+    background-color: #fff;
+    border: 1px solid #e8e8e8;
+    color: #000;
+    border-bottom: 0;}
+
+    .aboutus_info{
+    font-weight: normal;
+    line-height: 25px;
+    -webkit-text-size-adjust: none;
+    font-size: 16px;
+    font-family: 'Nunito Sans',arial;
+    -webkit-font-smoothing: antialiased;
+    visibility: visible;
+    width: 640px;
+    padding: 20px 20px 0;
+    background-color: #fff;
+    color: #000;
+    border-bottom: 0;
+    margin: 40px auto;
+}
+
+.ourteam{
+    font-weight: normal;
+    line-height: 25px;
+    -webkit-text-size-adjust: none;
+    font-size: 16px;
+    font-family: 'Nunito Sans',arial;
+    -webkit-font-smoothing: antialiased;
+    visibility: visible;
+    width: 640px;
+    padding: 20px 20px 0;
+    background-color: #fff;
+    color: #000;
+    border-bottom: 0;
+    margin: 40px auto;
+    text-align: right;
+}
