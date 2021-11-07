@@ -5,6 +5,7 @@
 @import url("components/card.css");
 @import url("components/navbar.css");
 @import url("components/footer.css");
+@import url("components/hiw.css");
 
 body {
 	font family : 'Open Sans Condensed', sans-serif;
