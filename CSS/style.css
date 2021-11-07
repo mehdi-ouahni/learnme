@@ -6,6 +6,12 @@
 @import url("components/navbar.css");
 @import url("components/footer.css");
 @import url("components/hiw.css");
+@import url("components/benefit.css");
+@import url("components/form.css");
+@import url("components/navbar2.css");
+@import url("components/box-article.css");
+@import url("components/teacher-index.css");
+@import url("components/box-article.css");
 
 body {
 	font family : 'Open Sans Condensed', sans-serif;
