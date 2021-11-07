@@ -1,0 +1,82 @@
+.benefits {
+    margin-bottom: 50
+px
+;
+}
+.benefit{
+    padding: 10px 0 0;
+    background-color: #F3F3F3;
+    padding-bottom: 30px;
+
+}
+
+.h2bénéfice {
+    text-transform: uppercase;
+}
+.h2bénéfice {
+    text-transform: uppercase;
+    color: black;
+}
+.h2bénéfice {
+    color: black;
+    text-align: center;
+    margin: 30px 0;
+    margin-top: 40px;
+}
+
+.h2bénéfice{
+    font-size: 20px;
+}
+
+.h3bénéfice{
+    font-size: 20px;
+}
+
+
+.row {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    justift-content: space-between;
+}
+
+.item {
+    width: 25%;
+    text-align: center;
+    margin-right: 20px;
+}
+
+
+/*  Icones */
+
+.pic{
+    background: transparent;
+    color: #86d1c3;
+    margin: 0 auto;
+    position: relative;
+}
+
+.fas{
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+.far{
+    font-size: 50px;
+    margin-top: 50px;
+}
+
+
+.free{
+    background-color: #59ACB2;
+    padding: 10px 15px;
+    margin:0 auto;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 275px;
+  margin-top: 30px;
+}

@@ -1,0 +1,58 @@
+.card {
+  box-shadow: 0 10px 20px rgba(0, 0, 0, 0.288) ;
+  max-width: 300px;
+  margin: auto;
+  text-align: center;
+  border-radius: 23px;
+
+}
+
+.title {
+  color: grey;
+  font-size: 18px;
+}
+
+.card img {
+  width: 150px;
+  height: 210px;
+  border-radius: 23px;
+}
+
+.cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  justify-content: space-around;
+}
+
+.card {
+  flex-basis: 250px;
+  flex-grow: 1;
+  margin-top: 30px;
+
+}
+
+.h1teacher{
+  text-align: center;
+  margin-top: 30px;
+}
+
+.h2teacher{
+  text-align: center;
+  font-weight: unset;
+}
+
+.find{
+   background-color: #59ACB2;
+    padding: 10px 15px;
+    margin:0 auto;
+    border-radius: 20px;
+    color: white;
+    font-weight: bold;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 275px;
+  margin-top: 80px;
+  margin-bottom: 50px;
+}
